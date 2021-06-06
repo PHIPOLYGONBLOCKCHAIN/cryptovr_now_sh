@@ -44,7 +44,7 @@ function Index() {
 
       <p>
         <em><b>Project Status:        
-          <span class={projectStatus}><b>The <em><b>Platform</b></em> Development Is Just Starting (Since <i>June 6, 2021</i>). Thank you {'for'} Attention, and Stay Tuned!</b></span>
+          <span class={projectStatus}><b>The <em><b>Platform</b></em> Development Is Just Starting (Since <i>June 6, 2021</i>). Thank You {'For'} Attention, and Stay Tuned! Currently Researching <a href="http://opensimulator.org/" target="_blank" rel="noopener" rel="noreferrer">Open Simulator</a> with the goal to Make Translucent Terrific #LIBMONEY MONEY ANTARCTICA GLACIER SUPPORT FOR <u>$BTC $ETH $MATIC $POLYGON</u> <a href="https://bitcoin.org/" target="_blank" rel="noopener" rel="noreferrer">bitcoin.org</a> &amp; <a href="https://ethereum.org/" target="_blank" rel="noopener" rel="noreferrer">ethereum.org</a> &amp; <a href="https://polygon.technology/" target="_blank" rel="noopener" rel="noreferrer">polygon.technology</a> et cetera et al 💥🚀+∞¤💎💚</b></span>
         </b></em>
       </p>
 
