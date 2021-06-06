@@ -1,8 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 import '../styles/index.css';
+import {
+  projectStatus
+} from '../styles/index.css';
 
 function Index() {
+  /*
   const [date, setDate] = useState(null);
   useEffect(() => {
     async function getDate() {
@@ -12,13 +16,38 @@ function Index() {
     }
     getDate();
   }, []);
+  */
   return (
     <main>
+
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+
+        <title>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</title>
+
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
-      <h2>
+      
+      <h3>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</h3>title> 
+      
+      <p>
+        <em><b>CryptoVR Platform</b></em> is a new open-source cryptocurrencies-based Open Simulator-based {'3D'} &amp; multi-modal virtual worlds <em>forkable platform</em> project.
+      </p>
+
+      <p>
+        <i>Money layer</i> will be based on our new <em><b>Money Layer Antarctica Glacier</b> forkable PAAS</em> project, also known as <code>libmoney</code>, based on the <a href="https://zeroc.com/" target="_blank" rel="noopener" rel="noreferrer">zeroc.com</a>&apos;s Ice/Glacier/Et Cetera/Et Al.
+      </p>
+
+      <p>
+        Our own instance for <em><b>CryptoVR Platform</b></em> will probably be at <a href="http://ANYWORLDS.APP/">ANYWORLDS.APP</a>. Let&apos;s also see how the <em><b>Brave Community</b></em> Progresses.
+      </p>
+
+      <p>
+        <em><b>Project status:        
+          <span class={projectStatus}><b>The <em><b>Platform</b></em> development is just starting (since <i>June 6, 2021</i>).</b></span>
+        </b></em>
+      </p>
+
+
+      {/*<h2>
         Deployed with{' '}
         <a
           href="https://vercel.com/docs"
@@ -49,6 +78,9 @@ function Index() {
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
+      */}
+      <p><em>Copyright © 2021 individual contributors. All Rights Reserved.</em></p>
+
     </main>
   );
 }

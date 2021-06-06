@@ -1,3 +1,7 @@
+body {
+  background-color: #BBFFAA;
+  color: #008800;
+}
 main {
   align-content: center;
   box-sizing: border-box;
@@ -15,14 +19,14 @@ main {
 h1 {
   font-size: 45px;
 }
-h2 {
+h3 {
   margin-top: 1.5em;
 }
 p {
   font-size: 16px;
 }
 a {
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid;
   color: #0076ff;
   cursor: pointer;
   text-decoration: none;
@@ -30,6 +34,9 @@ a {
 }
 a:hover {
   border-bottom: 1px solid #0076ff;
+}
+.project-status {
+  color: #44bbff
 }
 code,
 pre {
