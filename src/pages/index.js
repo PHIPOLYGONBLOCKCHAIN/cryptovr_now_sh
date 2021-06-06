@@ -19,26 +19,26 @@ function Index() {
 
       <Helmet>
 
-        <title>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR ↯ Open-Source Cryprocurrencies Virtual Worlds ⇴∢±∞∗¤💎💥💚</title>
+        <title>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</title>
 
       </Helmet>
       
-      <h3>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR ↯ Open-Source Cryprocurrencies Virtual Worlds ⇴∢±∞∗¤💎💥💚</h3>
+      <h3>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</h3>title> 
       
       <p>
         <em><b>CryptoVR Platform</b></em> is a new open-source cryptocurrencies-based Open Simulator-based {'3D'} &amp; multi-modal virtual worlds <em>forkable platform</em> project.
       </p>
 
       <p>
-        Money layer will be based on our new <em><b>Money Layer Antarctica Glacier</b> forkable platform</em> project, also known as <code>libmoney</code>.
+        <i>Money layer</i> will be based on our new <em><b>Money Layer Antarctica Glacier</b> forkable PAAS</em> project, also known as <code>libmoney</code>, based on the <a href="https://zeroc.com/" target="_blank" rel="noopener" rel="noreferrer">zeroc.com</a>&apos;s Ice/Glacier/Et Cetera/Et Al.
       </p>
 
       <p>
-        One instance for <em><b>CryptoVR Platform</b></em> will probably be at <a href="http://ANYWORLDS.APP/">ANYWORLDS.APP</a>.
+        Our own instance for <em><b>CryptoVR Platform</b></em> will probably be at <a href="http://ANYWORLDS.APP/">ANYWORLDS.APP</a>. Let&apos;s also see how the <em><b>Brave Community</b></em> Progresses.
       </p>
 
       <p>
-        <em>Project status:</em> The platform development just starting (June 6, 2021).
+        <em><b>Project status:</b></em> <font color="#88FF88"><b>The <em><b>Platform</b></em> development is just starting (since <i>June 6, 2021</i>).</b></font>
       </p>
 
 
@@ -74,7 +74,7 @@ function Index() {
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
       */}
-      <p>Copyright © 2021 individual contributors. All Rights Reserved.</p>
+      <p><em>Copyright © 2021 individual contributors. All Rights Reserved.</em></p>
 
     </main>
   );
