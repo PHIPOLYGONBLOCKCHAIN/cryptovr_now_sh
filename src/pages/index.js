@@ -48,6 +48,10 @@ function Index() {
         </b></em>
       </p>
 
+      <p>
+        Our Wiki is at <a href="https://gitlab.com/RusCybernetics/CRYPTOVR/-/wikis/home">https://gitlab.com/RusCybernetics/CRYPTOVR/-/wikis/home</a>. Welcome to read, browse, or propose changes.
+      </p>
+
 
       {/*<h2>
         Deployed with{' '}
