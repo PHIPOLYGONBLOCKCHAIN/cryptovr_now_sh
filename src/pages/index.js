@@ -38,7 +38,9 @@ function Index() {
       </p>
 
       <p>
-        <em><b>Project status:</b></em> <font color="#88FF88"><b>The <em><b>Platform</b></em> development is just starting (since <i>June 6, 2021</i>).</b></font>
+        <em><b>Project status:</b></em>
+        
+        <span style=".project-status"><b>The <em><b>Platform</b></em> development is just starting (since <i>June 6, 2021</i>).</b></span>
       </p>
 
 

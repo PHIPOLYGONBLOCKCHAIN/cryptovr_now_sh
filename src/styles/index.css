@@ -19,7 +19,7 @@ main {
 h1 {
   font-size: 45px;
 }
-h2 {
+h3 {
   margin-top: 1.5em;
 }
 p {
@@ -34,6 +34,9 @@ a {
 }
 a:hover {
   border-bottom: 1px solid #0076ff;
+}
+.project-status {
+  color: #44bbff
 }
 code,
 pre {
