@@ -49,7 +49,7 @@ function Index() {
       </p>
 
       <p>
-        Our Wiki is at <a href="https://gitlab.com/RusCybernetics/CRYPTOVR/-/wikis/home">https://gitlab.com/RusCybernetics/CRYPTOVR/-/wikis/home</a>. Welcome to read, browse, or propose changes.
+         Also: Welcome to <a href="https://gitlab.com/RusCybernetics/CRYPTOVR/-/wikis/home">our Wiki</a> to read, browse, or propose changes.
       </p>
 
 
