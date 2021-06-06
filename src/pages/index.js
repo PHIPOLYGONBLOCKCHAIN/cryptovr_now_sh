@@ -22,11 +22,13 @@ function Index() {
 
       <Helmet>
 
-        <title>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</title>
+        <title>
+          💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚
+        </title>
 
       </Helmet>
       
-      <h3>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</h3>title> 
+      <h3>💚☕🌈🧙🌌🌀⊙🌵⊙🐸🐹🐈🦄👨‍⏰🔆☠️🌲🤰🤱🧔🧗🧘🧙🧚🐯🐭🐁🌱🐸🌵🌲🏢🏡🌈🧚🐁🌵🐸🌲🌌🍄 CryptoVR Platform ↯ Open-Source Cryptocurrencies Virtual {'3D'} &amp; Multi-Modal Worlds ⇴∢±∞∗¤💎💥💚</h3>
       
       <p>
         <em><b>CryptoVR Platform</b></em> is a new open-source cryptocurrencies-based Open Simulator-based {'3D'} &amp; multi-modal virtual worlds <em>forkable platform</em> project.
